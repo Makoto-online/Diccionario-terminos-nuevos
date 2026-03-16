@@ -1,7 +1,8 @@
 meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
-            "XD": "Emoji que representa risa interminable"
+            "XD": "Emoji que representa risa interminable",
+            "GHOSTEADO": "Es cuando un individuo deja de responder a tus mensajes de texto"
             }
 
 print("Palabras en el diccionario", meme_dict.keys())
